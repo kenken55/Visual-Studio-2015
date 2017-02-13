@@ -1,0 +1,8 @@
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe.config
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.exe
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Release\WindowsFormsApplication6.pdb
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Form1.resources
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.Properties.Resources.resources
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.csproj.GenerateResource.Cache
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.exe
+e:\mydocument\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Release\WindowsFormsApplication6.pdb
